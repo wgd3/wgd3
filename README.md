@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [full-stack-todo](https://github.com/wgd3/full-stack-todo)
 
-- 📝 I regularly write articles on [https://thefullstack.engineer](https://thefullstack.engineer)
+- 👨‍💻 I regularly write articles on [https://thefullstack.engineer](https://thefullstack.engineer)
 
 - 💬 Ask me about **Angular, NestJS, Flask, Nx Monorepos, REST APIs**
 
