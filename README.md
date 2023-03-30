@@ -22,6 +22,11 @@
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack Development Series Part 7: Unit and Integration Testing](https://thefullstack.engineer/full-stack-development-series-part-7-unit-and-integration-testing/)
+- [Full Stack Development Series Part 6: Application Deployment and CI/CD](https://thefullstack.engineer/full-stack-development-series-part-6-application-deployment-and-ci-cd/)
+- [Full Stack Development Series Part 5: Design Systems and Angular Component Development with Storybook](https://thefullstack.engineer/full-stack-development-series-part-5-angular-component-development-with-storybook/)
+- [Full Stack Development Series Part 4: Data Persistence with TypeORM and NestJS](https://thefullstack.engineer/full-stack-development-series-part-4-data-persistence/)
+- [Full Stack Development Series Part 3: Connecting Angular to a REST API](https://thefullstack.engineer/full-stack-development-series-part-3-connect-angular-with-nestjs-api/)
 <!-- BLOG-POST-LIST:END -->
 
   
