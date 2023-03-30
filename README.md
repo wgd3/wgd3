@@ -13,9 +13,11 @@
 
 - 📄 Know about my experiences [https://resume.thefullstack.engineer/r/Mh5KOLvB](https://resume.thefullstack.engineer/r/Mh5KOLvB)
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=wgd3&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-  </p>
+<div align="center">
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=wgd3&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
+  
+</div>
 <hr />
   
 ### Blogs posts
