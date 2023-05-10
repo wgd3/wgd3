@@ -24,11 +24,11 @@ I'm a full stack software developer with 8+ years experience developing enterpri
  
 ### 📕 &nbsp;The Latest From TheFullStack.Engineer
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack Development Series Part 10: State Management in Angular with Libraries and the Facade Pattern](https://thefullstack.engineer/full-stack-development-series-part-10-state-management-and-the-facade-pattern-in-angular/)
 - [Full Stack Development Series Part 9: User Authentication and JWT Support in Angular](https://thefullstack.engineer/full-stack-development-series-part-9-authentication-support-on-the-front-end/)
 - [🚀 Introducing @nx-fullstack: Plugins and Tools for Nx Monorepos](https://thefullstack.engineer/introducing-nx-fullstack/)
 - [Full Stack Development Series Part 8: User Authentication and JWT Support in NestJS](https://thefullstack.engineer/full-stack-development-series-user-authentication/)
 - [Full Stack Development Series Part 7: Unit and Integration Testing](https://thefullstack.engineer/full-stack-development-series-part-7-unit-and-integration-testing/)
-- [Full Stack Development Series Part 6: Application Deployment and CI/CD](https://thefullstack.engineer/full-stack-development-series-part-6-application-deployment-and-ci-cd/)
 <!-- BLOG-POST-LIST:END -->
 
   
