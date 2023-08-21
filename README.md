@@ -24,11 +24,11 @@ I'm a full stack software developer with 8+ years experience developing enterpri
  
 ### 📕 &nbsp;The Latest From TheFullStack.Engineer
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of InjectionTokens in Angular](https://thefullstack.engineer/unleashing-the-power-of-injectiontokens-in-angular/)
 - [Speeding Up Development with Nx Generators](https://thefullstack.engineer/speeding-up-development-with-nx-generators/)
 - [Full Stack Development Series Part 10: State Management in Angular with Libraries and the Facade Pattern](https://thefullstack.engineer/full-stack-development-series-part-10-state-management-and-the-facade-pattern-in-angular/)
 - [Full Stack Development Series Part 9: User Authentication and JWT Support in Angular](https://thefullstack.engineer/full-stack-development-series-part-9-authentication-support-on-the-front-end/)
 - [🚀 Introducing @nx-fullstack: Plugins and Tools for Nx Monorepos](https://thefullstack.engineer/introducing-nx-fullstack/)
-- [Full Stack Development Series Part 8: User Authentication and JWT Support in NestJS](https://thefullstack.engineer/full-stack-development-series-user-authentication/)
 <!-- BLOG-POST-LIST:END -->
 
   
