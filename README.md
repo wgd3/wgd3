@@ -9,7 +9,7 @@
 
 - 📫 How to reach me [**wallace@thefullstack.engineer**](mailto:wallace@thefullstack.engineer)
 
-- 📄 Check out my experience [from my resume](https://resume.thefullstack.engineer/r/Mh5KOLvB)
+- 📄 Check out my experience [from my resume](https://resume.thefullstack.engineer/r/-2wZZ1s3) 
 
 <div align="center">
 
