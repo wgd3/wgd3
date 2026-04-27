@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wallace</h1>
-<h3 align="center">Full-Stack Developer 🖥 Cloud Architect ☁ Homelab Enthusiast 💽</h3>
+<h3 align="center">AI Engineer 🤖 Full-Stack Developer 🖥 Cloud Architect ☁ Homelab Enthusiast 💽</h3>
 
 - 🔭 I’m currently working on [full-stack-todo](https://github.com/wgd3/full-stack-todo)
 
 - 👨‍💻 I regularly write articles on [https://thefullstack.engineer](https://thefullstack.engineer)
 
-- 💬 Ask me about **Angular, NestJS, Flask, Nx Monorepos, REST APIs**
+- 💬 Ask me about **Agentic AI, Spec Driven Development, React, Angular, NestJS, Flask, Nx Monorepos, REST APIs**
 
 - 📫 How to reach me [**wallace@thefullstack.engineer**](mailto:wallace@thefullstack.engineer)
 
